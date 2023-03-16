@@ -33,7 +33,7 @@ const Navbar = () => {
     return (
         <div className="col-span-12 h-[3.75rem] px-4 flex items-center justify-between bg-slate-800">
             <div className="flex items-center">
-                <h1 className="text-lg text-orange-600 hover:text-amber-500 font-bold">SHONIN ANIME</h1>
+                <h1 className="text-lg text-orange-600 hover:text-amber-500 font-bold">SHONIN</h1>
             </div>
             <div className="flex items-center">
                 <div className="hidden md:block mr-4">
