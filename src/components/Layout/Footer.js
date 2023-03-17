@@ -18,7 +18,7 @@ const Footer = () => {
                     </a>
                 </div>
             </div>
-            <div className="text-sm mb-2 font-serif hover:font-mono font-normal fixed bottom-0">
+            <div className="text-sm mb-2 font-serif hover:font-mono font-normal md:fixed bottom-0">
                 &copy; {new Date().getFullYear()} Shonin Anime. All Rights Reserved. | 
                 <a href="/terms" className="text-white hover:text-blue-400">Terms of Use</a> | 
                 <a href="/privacy" className="text-white hover:text-blue-400">Privacy Policy</a>
